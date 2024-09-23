@@ -43,7 +43,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: https://github.com/2blackcow # For a direct email link, use "mailto:test@example.org".
   - icon: discord
     icon_pack: fab
