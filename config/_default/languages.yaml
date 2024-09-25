@@ -9,8 +9,8 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-ko:
- languageCode: ko
+# ko:
+#  languageCode: ko
  #contentDir: content/ko
 #  title: Korean website title...
 #  params:
