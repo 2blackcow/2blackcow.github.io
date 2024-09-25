@@ -4,17 +4,17 @@
 
 # Default language
 en:
-  languageCode: ko
+  languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-# ko:
-#  languageCode: ko
- #contentDir: content/ko
-#  title: Korean website title...
+#zh:
+#  languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: Chinese website title...
 #  params:
-#    description: 사이트 설명
+#    description: Site description in Chinese...
 #  menu:
 #    main:
 #      - name: 传
