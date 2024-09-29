@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
+    org_name: 'LEE HYUN WOO'
+    description: 'Student in Jeonbuk National Univ.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -88,7 +88,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: ''
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''
