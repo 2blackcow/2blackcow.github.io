@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: HyeonwooLee # Website name
-baseURL: 'https://jbnu.hw.or.kr/' # Website URL
+baseURL: 'https://2blackcow.github.io/' # Website URL
 
 ############################
 ## PAGE OPTIONS
