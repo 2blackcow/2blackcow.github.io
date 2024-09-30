@@ -4,7 +4,7 @@ type: landing
 summary: "궁금한 사항이 있으시다면 아래로 연락주시면 감사드리겠습니다."
 
 sections:
-  - block: contact
+  - block: 연락처
     content:
       title: 연락처
       email: lhw4408@jbnu.ac.kr
