@@ -6,16 +6,16 @@ title: 이현우
 superuser: true
 
 # Role/position
-role: '전북대학교 컴퓨터공학부'
+role: '전북대학교 컴퓨터공학부 학부생'
 
 # Status emoji
 status:
   icon: 🖐️
-
+ 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: 전북대학교 컴퓨터인공지능학부
+  url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
 bio: #My research interests include distributed robotics, mobile computing and programmable matter.
@@ -42,6 +42,9 @@ bio: #My research interests include distributed robotics, mobile computing and p
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'about/#contact'
   - icon: github
     icon_pack: fab
     link: https://github.com/2blackcow # For a direct email link, use "mailto:test@example.org".
@@ -51,6 +54,12 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/hyeon_u_u_
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/profile.php?id=100007395220691
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@black-cow00
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
