@@ -38,7 +38,6 @@ header:
     fixed_to_top: true
     show_theme_chooser: true
     show_search: true
-    # highlight_active_link: false
     logo:
       text: "HyeonU"
 
