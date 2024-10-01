@@ -38,8 +38,8 @@ header:
     fixed_to_top: true
     show_theme_chooser: true
     show_search: true
-    # logo:
-    #   text: "HyeonU"
+    logo:
+      text: "HyeonU"
 
 footer:
   copyright:
