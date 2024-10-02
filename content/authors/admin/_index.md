@@ -6,7 +6,7 @@ title: 이현우
 superuser: true
 
 # Role/position
-role: '전북대학교 컴퓨터공학부 학부생'
+role: '전북대 컴퓨터공학부 학부생'
 
 # Status emoji
 status:
