@@ -63,7 +63,7 @@ social:
 
   - icon: cv
     icon_pack: ai
-    link: files/cv.pdf
+    link: static/resume.pdf
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
