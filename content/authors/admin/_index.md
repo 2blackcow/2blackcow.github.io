@@ -23,9 +23,9 @@ bio: "저의 목표는 최적화된 사용자 중심의 기술 솔루션을 제�
 혁신적인 솔루션을 설계하는 개발자가 되고싶습니다. 감사합니다."
 
 interests:
-- 개발 (Development & Deploy)
-- 프로그래밍 언어 숙달 (language proficiency)
-- 인간-컴퓨터 상호 작용 (HCI)
+- 개발
+- 프로그래밍 언어 숙달
+- 인간-컴퓨터 상호 작용
 
 education:
  courses:
