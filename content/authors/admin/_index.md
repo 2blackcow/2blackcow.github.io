@@ -21,9 +21,9 @@ organizations:
 bio: ""
 
 interests:
-  * "개발"
-  * "프로그래밍 언어 숙달"
-  * "인간-컴퓨터 상호 작용"
+- 개발
+- 프로그래밍 언어 숙달
+- 인간-컴퓨터 상호작용
 
 education:
  courses:
