@@ -61,9 +61,9 @@ social:
     icon_pack: fab
     link: https://www.youtube.com/@black-cow00
 
-  - icon: cv
-    icon_pack: ai
-    link: static/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: static/resume.pdf
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
