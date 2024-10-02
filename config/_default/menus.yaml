@@ -10,8 +10,8 @@ main:
   - name: 자기소개
     url: about/
     weight: 20
-  - name: 교육
-    url: education/
+  - name: 갤러리
+    url: gallery/
     weight: 30
   - name: 경력
     identifier: careers
