@@ -13,9 +13,20 @@ main:
   - name: 교육
     url: education/
     weight: 30
+  - name: 경력
+    identifier: careers
+    weight: 40
+    # 서브탭 추가 메뉴
+  - name: 수상
+    url: award/
+    parent: careers
+    weight: 1
   - name: 자격증
     url: qualifications/
-    weight: 40
+    parent: careers
+    weight: 2
+
+    
   - name: 연락처
     url: contact/
     weight: 50
