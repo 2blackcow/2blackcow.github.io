@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: 'LEE HYUN WOO'
     description: 'Student in Jeonbuk National Univ.'
-    twitter: 'GetResearchDev'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,6 +40,7 @@ header:
     show_search: true
     logo:
       text: "HyeonU"
+      filename: "logo.png"
 
 footer:
   copyright:
