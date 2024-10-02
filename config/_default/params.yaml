@@ -41,6 +41,8 @@ header:
     logo:
       text: "HyeonU"
       filename: "logo.png"
+      position: "inline"
+    alignment: "left"
 
 footer:
   copyright:
