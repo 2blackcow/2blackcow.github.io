@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: ⭐ 소개합니다
+title: ⭐ 소개합니다 ⭐ 
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
