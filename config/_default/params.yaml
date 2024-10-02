@@ -41,7 +41,6 @@ header:
     logo:
       text: "HyeonU"
       filename: "logo.png"
-      shape: circle
 
 footer:
   copyright:
