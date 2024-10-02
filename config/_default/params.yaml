@@ -40,7 +40,7 @@ header:
     show_search: true
     logo:
       text: "HyeonU"
-      #filename: "logo.png"
+      filename: "logo.png"
       
 
 footer:
