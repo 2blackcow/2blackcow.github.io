@@ -10,8 +10,8 @@ main:
   - name: 자기소개
     url: about/
     weight: 20
-  - name: 갤러리
-    url: gallery/
+  - name: 프로젝트
+    url: project/
     weight: 30
   - name: 경력
     identifier: careers
