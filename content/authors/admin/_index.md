@@ -25,22 +25,16 @@ bio: "저의 목표는 최적화된 사용자 중심의 기술 솔루션을 제�
 
 감사합니다."
 
-관심분야:
+interests:
 - 개발 (Development & Deploy)
 - 프로그래밍 언어 숙달 (language proficiency)
 - 인간-컴퓨터 상호 작용 (HCI)
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+ courses:
+ - course: 컴퓨터공학부
+   institution: 전북대학교
+   year: 2020 - 현재
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -79,7 +73,9 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+email: "lhw4408@jbnu.ac.kr"
+
+highlight_name: true
 ---
 
 안녕하세요, 전북대학교 컴퓨터 공학부에 재학 중인 이현우 입니다.
