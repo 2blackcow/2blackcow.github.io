@@ -11,12 +11,6 @@ weight: 10
 author: admin
 
 
-sections:
-  - block: markdown
-    id: about
-    content:
-      text: "![img](https://images.unsplash.com/photo-1713959957908-ca41293553b3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQ1fDZzTVZqVExTa2VRfHxlbnwwfHx8fHw%3D)"
-      
 #design:
 #  background:
 #    color: '#090a0b'
