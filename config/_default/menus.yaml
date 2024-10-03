@@ -13,9 +13,22 @@ main:
   - name: 프로젝트
     url: project/
     weight: 30
+
+  - name: 학교생활
+    identifier: activity
+    weight: 40
+  - name: 학업
+    url: study/
+    parent: activity
+    weight: 1
+  - name: 동아리
+    url: club/
+    parent: activity
+    weight: 2
+  
   - name: 경력
     identifier: careers
-    weight: 40
+    weight: 50
     # 서브탭 추가 메뉴
   - name: 수상
     url: award/
@@ -29,6 +42,6 @@ main:
     
   - name: 연락처
     url: contact/
-    weight: 50
+    weight: 60
 
 
