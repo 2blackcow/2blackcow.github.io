@@ -1,5 +1,5 @@
 ---
-title: 동아리 활동
+title: 전북대 중앙동아리 탑스핀
 
 view: community/card
 
