@@ -10,7 +10,7 @@ weight: 40
 content:
   filters:
     folders:
-      - schoolactivity/dongari/
+      - dongari
     tag: ''
     category: ''
     publication_type: ''
