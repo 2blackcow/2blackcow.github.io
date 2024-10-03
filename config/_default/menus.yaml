@@ -22,7 +22,7 @@ main:
     parent: activity
     weight: 1
   - name: 동아리
-    url: club/
+    url: dongari/
     parent: activity
     weight: 2
   
