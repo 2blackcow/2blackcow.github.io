@@ -16,7 +16,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - dongari
+          - schoolactivity/dongari/
         author: ""
         category: ""
         tag: ""
