@@ -34,7 +34,7 @@ content:
         brightness: 0.4
         media: study.jpg
         #fit: cover
-    - title: <span style="font-size:90%">↙️연락처 버튼</span>
+    - title: <span style="font-size:90%">⬇️연락처⬇️</span>
       content: <span style="font-size:90%">언제든지 연락해주세요!</span>
       align: left
       background:
@@ -44,9 +44,9 @@ content:
         media: phone.jpg
         #fit: cover
       link:
+        text: <span style="font-size:70%">연락처</span>
         icon: phone-alt
         icon_pack: fas
-        text: <span style="font-size:70%">연락처</span>
         url: contact
 
 ---
