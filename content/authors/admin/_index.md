@@ -54,7 +54,7 @@ social:
     link: https://www.facebook.com/profile.php?id=100007395220691
   - icon: youtube
     icon_pack: fab
-    link: https://www.youtube.com/@black-cow00
+    link: https://www.youtube.com/@2blackcow
 
   # - icon: cv
   #   icon_pack: ai
