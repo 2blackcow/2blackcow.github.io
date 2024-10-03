@@ -22,7 +22,7 @@ main:
     parent: activity
     weight: 1
   - name: 동아리
-    url: schoolactivity/dongari/
+    url: dongari/
     parent: activity
     weight: 2
   
@@ -31,7 +31,7 @@ main:
     weight: 50
     # 서브탭 추가 메뉴
   - name: 수상
-    url: career/award/
+    url: award/
     parent: careers
     weight: 1
   - name: 자격증
