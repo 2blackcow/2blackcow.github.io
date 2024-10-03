@@ -35,7 +35,7 @@ main:
     parent: careers
     weight: 1
   - name: 자격증
-    url: qualifications/
+    url: career/award
     parent: careers
     weight: 2
 
