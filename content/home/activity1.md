@@ -4,6 +4,7 @@ headless: true
 
 
 title: 동아리
+weight: 40
 content:
     text: 'Check out my recent blog posts below!'
     # Choose how many pages you would like to display (0 = all pages
