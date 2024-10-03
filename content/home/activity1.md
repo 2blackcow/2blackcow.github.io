@@ -3,7 +3,7 @@ widget: collection # As of v5.8-dev, 'pages' is renamed 'collection'
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Recent Projects
+title: 동아리
 subtitle: ''
 weight: 40
 
