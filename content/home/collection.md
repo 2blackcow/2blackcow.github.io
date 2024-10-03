@@ -1,6 +1,7 @@
 ---
 title: My page
 weight: 40
+headless: true
 
 sections:
   - block: collection
