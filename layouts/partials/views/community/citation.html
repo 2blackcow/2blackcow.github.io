@@ -1,10 +1,6 @@
 {{ $item := .item }}
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
-{{ $resource := partial "functions/get_featured_image.html" $item }}
-{{ $fill_image := .config.fill_image | default true }}
-{{ $anchor := $item.Params.image.focal_point | default "Center" }}
-
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
@@ -15,7 +11,7 @@
     {{ partial "page_metadata_authors" $item }}
   </span>
   ({{- $item.Date.Format "2006" -}}).
-  {{ $item.Title }}.
+  <a href="{{ $item.RelPermalink }}" class="underline">{{ $item.Title }}</a>.
   {{ if $item.Params.publication_short }}
     {{- $item.Params.publication_short | markdownify -}}.
   {{ else if $item.Params.publication }}
@@ -23,22 +19,8 @@
   {{ end }}
 
   {{ if $has_attachments }}
-  <span class="flex-wrap space-x-3 relative z-20 hover-effect">
+  <div class="flex flex-wrap space-x-3">
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
-  </span>
-  {{ end }}
-
-  {{ with $resource }}
-  {{ $image := "" }}
-  {{if $fill_image}}
-    {{ $image = .Fill (printf "960x540 %s" $anchor) }}
-  {{else}}
-    {{ $image = .Fit (printf "960x540 %s" $anchor) }}
-  {{end}}
-  {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-
-  <div class="pub-list-image">
-    <img src="{{ $image.RelPermalink }}">
   </div>
   {{ end }}
 
@@ -57,7 +39,7 @@
   {{- $item.Date.Format "2006" -}}.
 
   {{ if $has_attachments }}
-  <div class="flex">
+  <div class="flex flex-wrap space-x-3">
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
   </div>
   {{ end }}

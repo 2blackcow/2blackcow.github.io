@@ -1,5 +1,6 @@
 ---
-title: 정보처리기능사 
+
+title: 자격증 취득
 
 view: community/compact
 
