@@ -1,6 +1,5 @@
 ---
 widget: collection
-headless: true
 
 
 title: 동아리
