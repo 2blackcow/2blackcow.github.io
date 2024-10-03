@@ -38,9 +38,9 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#000'
         brightness: 0.5
-        media: welcome.jpg
+        media: dongari.jpg
         fit: cover
       link:
         icon: graduation-cap
