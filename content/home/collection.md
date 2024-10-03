@@ -1,6 +1,5 @@
 ---
 title: My page
-type: landing
 weight: 40
 
 sections:
