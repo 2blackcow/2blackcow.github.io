@@ -23,7 +23,7 @@ content:
         position: right
         color: '#000'
         brightness: 0.4
-        media: award.jpg
+        media: hello.jpg
         #fit: cover
     - title: Lunch & Learn ☕️
       content: Share your knowledge with the group and explore exciting new topics together!
