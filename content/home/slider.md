@@ -25,8 +25,8 @@ content:
         brightness: 0.4
         media: hello.jpg
         #fit: cover
-    - title: Lunch & Learn ☕️
-      content: Share your knowledge with the group and explore exciting new topics together!
+    - title: 스터디 
+      content: 코드 및 언어를 지속적으로 공부합니다
       align: center
       background:
         position: center
@@ -34,19 +34,19 @@ content:
         brightness: 0.4
         media: dongari.jpg
         #fit: cover
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: <span style="font-size:90%">연락처 버튼↘️</span>
+      content: <span style="font-size:90%">언제든지 연락해주세요!</span>
       align: right
       background:
         position: center
         color: '#000'
-        brightness: 0.5
-        media: dongari.jpg
-        fit: cover
+        brightness: 0.4
+        media: phone.jpg
+        #fit: cover
       link:
-        icon: graduation-cap
+        icon: phone-alt
         icon_pack: fas
-        text: Join Us
+        text: <span style="font-size:70%">연락처</span>
         url: contact
 
 ---
