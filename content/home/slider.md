@@ -25,18 +25,18 @@ content:
         brightness: 0.4
         media: hello.jpg
         #fit: cover
-    - title: 스터디 
-      content: 코드 및 언어를 지속적으로 공부합니다
+    - title:  <span style="font-size:90%">스터디</span>
+      content:  <span style="font-size:90%">코드 및 언어를 지속적으로 공부합니다</span>
       align: center
       background:
         position: center
         color: '#000'
         brightness: 0.4
-        media: dongari.jpg
+        media: study.jpg
         #fit: cover
-    - title: <span style="font-size:90%">연락처 버튼↘️</span>
+    - title: <span style="font-size:90%">↙️연락처 버튼</span>
       content: <span style="font-size:90%">언제든지 연락해주세요!</span>
-      align: right
+      align: left
       background:
         position: center
         color: '#000'
