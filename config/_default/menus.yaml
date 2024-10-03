@@ -31,11 +31,11 @@ main:
     weight: 50
     # 서브탭 추가 메뉴
   - name: 수상
-    url: award/
+    url: career/award/
     parent: careers
     weight: 1
   - name: 자격증
-    url: career/award
+    url: qualifications/
     parent: careers
     weight: 2
 
