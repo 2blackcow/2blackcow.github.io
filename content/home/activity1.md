@@ -33,7 +33,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: community/date-title-summary
+      view: community/card
       # Choose single or dual column layout
       columns: '1'
 ---
