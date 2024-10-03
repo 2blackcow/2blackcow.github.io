@@ -16,7 +16,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - activity
+          - dongari
         author: ""
         category: ""
         tag: ""
