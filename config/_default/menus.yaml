@@ -17,8 +17,8 @@ main:
   - name: 학교생활
     identifier: activity
     weight: 40
-  - name: 학업
-    url: study/
+  - name: 커리큘럼
+    url: curriculum/
     parent: activity
     weight: 1
   - name: 동아리
