@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 # Put Your Section Options Here (title, background, etc.) ...
 title: 동아리
 subtitle: ''
-weight: 50
+weight: 60
 
 content:
   filters:

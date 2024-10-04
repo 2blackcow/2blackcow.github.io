@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 # Put Your Section Options Here (title, background, etc.) ...
 title: 프로젝트
 subtitle: ''
-weight: 60
+weight: 50
 
 content:
   filters:
