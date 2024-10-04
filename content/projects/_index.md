@@ -2,7 +2,7 @@
 
 title: 프로젝트
 
-view: community/project-grid
+view: community/compact
 
 banner:
   caption: ''
