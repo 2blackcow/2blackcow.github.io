@@ -28,5 +28,5 @@ tags:
 - GitHub Pages를 통한 웹사이트 호스팅
 
 ### 세부사항
-- {{< icon name="file" pack="fas" >}} [text](https://github.com/2blackcow/2blackcow.github.io.git)
+- {{< icon name="file" pack="fas" >}}(https://github.com/2blackcow/2blackcow.github.io.git)
 
