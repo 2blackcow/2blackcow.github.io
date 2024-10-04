@@ -26,7 +26,7 @@ experience:
     company: 전북대학교
     company_url: ''
     company_logo: graduation
-    location: 전라북도 전주시
+    #location: 전라북도 전주시
     date_start: '2020-03-02'
     date_end: ''
     description: 재학생

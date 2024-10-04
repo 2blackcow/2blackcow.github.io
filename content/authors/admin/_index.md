@@ -24,7 +24,7 @@ bio: ""
 interests:
 - 개발
 - 프로그래밍 언어
-- 인간-컴퓨터 상호작용
+- 프론트엔드 개발
 
 education:
  courses:
