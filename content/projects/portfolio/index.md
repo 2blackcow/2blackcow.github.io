@@ -8,7 +8,8 @@ tags:
     - hugo
 ---
 
-### 2024년 2학기 웹서비스설계 Github pages로 개인 페이지 소개 (포폴) 웹사이트 만들기
+### 2024년 2학기 웹서비스설계 
+### Github pages로 개인 페이지 소개 (포폴) 웹사이트 만들기
 
 -  Hugo builder Demo를 사용하여 개인 포트폴리오 홈페이지를 제작
 -  Hugo의 활용법 익히기
@@ -26,5 +27,5 @@ tags:
 - GitHub Pages를 통한 웹사이트 호스팅
 
 ### 세부사항
-- {{< icon name="file" pack="fas" >}} {{< staticref "https://github.com/2blackcow/2blackcow.github.io.git" >}}{{< /staticref >}} 
+- {{< icon name="file" pack="fas" >}} [text](https://github.com/2blackcow/2blackcow.github.io.git)
 
