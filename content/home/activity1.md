@@ -29,7 +29,10 @@ content:
   sort_ascending: false
 design:
   # Choose a listing view
+  columns: '1'
   view: community/card
-  columns: '3'
+  flip_alt_rows: true
+  background: {}
+  spacing: {padding: [0, 0, 0, 0]}
   title_align: left
 ---
