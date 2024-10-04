@@ -7,6 +7,6 @@ date: 2024-10-04
 
 제가 찍은 여행사진입니다.
 
-![여행](dog1.jpg)
-![여행](dog2.jpg)
-![여행](dog3.jpg)
+![여행](travel1.jpg)
+![여행](travel2.jpg)
+![여행](travel3.jpg)
