@@ -1,5 +1,5 @@
 ---
-title: 2023년 1학기 리눅스프로그래밍 프로젝트
+title: 리눅스프로그래밍 프로젝트
 summary: 2023년 4월 - 2023년 6월
 date: 2024-10-04
 type: docs
@@ -30,4 +30,4 @@ tags:
 
 
 ### 결과보고서
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/linux.pdf" >}}Download{{< /staticref >}} 결과 보고서.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/linux.pdf" >}}{{< /staticref >}} 결과 보고서.
