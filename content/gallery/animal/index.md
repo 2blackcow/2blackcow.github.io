@@ -1,4 +1,5 @@
 ---
 title: 동물 사진
 date: 2024-10-04
+gallery: true
 ---
