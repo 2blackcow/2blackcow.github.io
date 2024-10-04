@@ -4,6 +4,6 @@ view: community/compact
 
 banner:
   caption: ''
-  image: ''
+  image: 'photo.jpg'
 
 ---
