@@ -2,7 +2,7 @@
 
 title: 커리큘럼
 
-view: community/compact
+view: community/citation
 
 banner:
   caption: ''
