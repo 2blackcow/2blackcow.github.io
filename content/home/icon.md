@@ -3,7 +3,7 @@ widget: features
 
 
 title: 취미
-weight: 30
+weight: 40
 
 feature:
     - icon: code
