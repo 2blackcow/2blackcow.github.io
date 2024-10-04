@@ -1,6 +1,6 @@
 ---
 
-title: 2020년 1학기
+title: 커리큘럼
 
 view: community/compact
 
