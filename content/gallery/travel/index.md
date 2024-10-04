@@ -1,7 +1,7 @@
 ---
 title: 여행사진
 date: 2024-10-04
-featured_image: "featured.jpg"
+featured_image: "travel1.jpg"
 ---
 
 # 여행
