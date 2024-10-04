@@ -1,6 +1,6 @@
 ---
 title: 갤러리
-view: community/compact
+view: community/card
 
 banner:
   caption: ''
