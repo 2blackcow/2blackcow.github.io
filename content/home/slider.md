@@ -20,7 +20,7 @@ content:
       content: <span style="font-size:90%">이현우의 개인 페이지에 오신 것을 환영합니다!<span style="font-size:90%">
       align: center
       background:
-        position: right
+        position: center
         color: '#000'
         brightness: 0.4
         media: hello.jpg
