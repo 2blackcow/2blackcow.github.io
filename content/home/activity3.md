@@ -3,14 +3,14 @@ widget: collection # As of v5.8-dev, 'pages' is renamed 'collection'
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: 프로젝트
+title: 갤러리
 subtitle: ''
-weight: 60
+weight: 70
 
 content:
   filters:
     folders:
-      - projects
+      - gallery
     tag: ''
     category: ''
     publication_type: ''
