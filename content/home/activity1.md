@@ -30,6 +30,6 @@ content:
 design:
   # Choose a listing view
   view: community/card
-  columns: '1'
+  columns: '3'
   title_align: left
 ---
