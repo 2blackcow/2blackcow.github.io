@@ -4,7 +4,6 @@ subtitle: 포트폴리오 웹사이트
 summary: 2024년 9월 - 2024년 10월
 date: 2024-10-04
 type: docs
-link: https://github.com/2blackcow/2blackcow.github.io.git
 featured: true
 tags:
     - hugo
@@ -27,4 +26,4 @@ tags:
 - Hugo 정적 사이트 생성기 활용
 - GitHub Pages를 통한 웹사이트 호스팅
 
-
+[깃허브](https://github.com/2blackcow/2blackcow.github.io.git)
