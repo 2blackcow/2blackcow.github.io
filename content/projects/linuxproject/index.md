@@ -4,7 +4,9 @@ summary: 2023년 4월 - 2023년 6월
 date: 2024-10-04
 type: docs
 featured: true
-tags: ["linux", "NLP"]
+tags:
+    - linux
+    - NLP
 ---
 
 ### 2023년 1학기 리눅스프로그래밍 개인 프로젝트 과제
