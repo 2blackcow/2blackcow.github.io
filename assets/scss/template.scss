@@ -57,6 +57,10 @@ body {
   padding: 1rem 0;
 }
 
+.cta-group {
+  justify-content: center;
+}
+
 .home-section.wg-about-avatar {
   padding: 0;
 }
@@ -91,6 +95,10 @@ ul.network-icon .big-icon {
 
 .home-section header {
   margin-bottom: 1em;
+}
+
+.universal-wrapper h1 {
+  text-align: center;
 }
 
 // Narrower container for Hello World sections (primarily Blank widget content).
