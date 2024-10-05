@@ -14,6 +14,6 @@ Introduction
 - A two-player shooting game, GunBBang! Development
   
 Details
-- [github🔗](https://github.com/2blackcow/Gunbbang)
+- [Github🔗](https://github.com/2blackcow/Gunbbang)
 
 

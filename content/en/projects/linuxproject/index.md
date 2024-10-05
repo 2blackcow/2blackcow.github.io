@@ -30,4 +30,4 @@ Client
 - If a non-existent file (or an incorrectly named file) is requested and a failure message is received from the server, it is printed to standard output, and the client terminates.
 
 ### Results Report
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/linux.pdf" >}}{{< /staticref >}} Results report.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/linux.pdf" >}} Download{{< /staticref >}} Results report.
