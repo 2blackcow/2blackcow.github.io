@@ -1,6 +1,6 @@
 ---
 
-title: 프로젝트
+title: Projects
 
 view: community/compact
 

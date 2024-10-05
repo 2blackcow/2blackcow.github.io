@@ -1,29 +1,29 @@
 ---
-title: 웹사이트 만들기
-subtitle: 포트폴리오
-summary: 2024년 9월 - 2024년 10월
+title: Create a Website
+subtitle: Portfolio
+summary: September 2024 - October 2024
 date: 2024-10-04
 type: docs
 featured: true
 tags:
-    - hugo
+    - Hugo
 ---
 
-2024년 2학기 웹서비스설계 
-Github pages로 개인 페이지 만들기
--  Hugo builder Demo를 사용하여 개인 포트폴리오 홈페이지를 제작
--  Hugo의 활용법 익히기
--  웹 개발 역량 강화 목표
+Web Service Design for the Second Semester of 2024
+Creating a personal page with GitHub Pages
+-  Build a personal portfolio homepage using Hugo builder
+-  Learn how to use Hugo
+-  Goal: Strengthen web development capabilities
 
-기능
+Functions
 
-- 다국어 지원
-- 슬라이더
-- 홈페이지 기능
+- Multilingual support
+- Slider
+- Homepage features
 
-기술
+Technology
 
-- Hugo 정적 사이트 생성기 활용
-- GitHub Pages를 통한 웹사이트 호스팅
+- Utilize Hugo static site generator
+- Website hosting through GitHub Pages
 
-[깃허브🔗](https://github.com/2blackcow/2blackcow.github.io.git)
+[Github🔗](https://github.com/2blackcow/2blackcow.github.io.git)

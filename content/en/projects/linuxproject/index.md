@@ -1,6 +1,6 @@
 ---
-title: 리눅스프로그래밍 프로젝트
-summary: 2023년 4월 - 2023년 6월
+title: Linux Programming Project
+summary: April 2023 - June 2023
 date: 2024-10-04
 type: docs
 featured: true
@@ -8,26 +8,26 @@ tags:
     - linux
 ---
 
-2023년 1학기 리눅스프로그래밍 개인 프로젝트 
+Linux Programming Personal Project for the First Semester of 2023
 
-1개의 리눅스 운영체제에서 돌아가는 프로그램 개발하기
+Developing a program that runs on a Linux operating system
 
-개요
-- 파일을 요청해서 주고 받는 서버/클라이언트 프로세스 개발
+Outline
+- Develop server/client processes to request and receive files
 
-서버
-- 서버는 동작하는 동안, 클라이언트들이 요청하는 파일을 IPC-Socket을 통해 전송함
-- 없는 파일(또는 잘못된 이름)을 요청한 경우, 실패 메시지 전달
-- 서버는 요청받은 파일을 표준출력 하고, 해당 파일을 요청한 클라이언트에 전송해 줌
-- 서버는 멀티 스레드 기반으로 설계하여, 복수 클라이언트들의 동시 요청을 처리할 수 있어야 함
-- 별도의 종료루틴은 없음
+Server
 
-클라이언트
-- 클라이언트는, 실행시 argv[1]로 요청할 파일을 입력받음
-- 서버에 연결해서, 파일을 요청하고 전송이 완료되면 프로세스를 종료함
-- 없는 파일(또는 잘못된 이름)을 요청한 경우, 서버로부터 실패 메시지를 전달받으면, 이를 표준출력 해주고 종료함
+- While the server is running, it transmits files requested by clients through IPC-Socket.
+- If a non-existent file (or an incorrectly named file) is requested, a failure message is sent.
+- The server outputs the requested file to standard output and transmits the file to the requesting client.
+- The server must be designed with multi-threading and be capable of handling simultaneous requests from multiple clients.
+- There is no separate shutdown routine.
 
+Client
 
+- Upon execution, the client receives the file to request through argv[1].
+- It connects to the server, requests a file, and terminates the process when the transfer is complete.
+- If a non-existent file (or an incorrectly named file) is requested and a failure message is received from the server, it is printed to standard output, and the client terminates.
 
-### 결과보고서
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/linux.pdf" >}}{{< /staticref >}} 결과 보고서.
+### Results Report
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/linux.pdf" >}}{{< /staticref >}} Results report.

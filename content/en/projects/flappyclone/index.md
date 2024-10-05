@@ -1,17 +1,18 @@
 ---
-title: 플래피버드 게임
-summary: 2023년 4월 - 2023년 6월
+title: Flappy Bird Game
+summary: April 2023 - June 2023
 date: 2024-10-04
 type: docs
 featured: true
 tags:
-    - unity
+    - Unity
+
 ---
 
-플래피버드 클론코딩
+Flappy Bird Clone Coding
 
-소개
-- unity를 이용한 게임 개발
+Introduction
+- Game development using Unity
 
-세부사항
-- [깃허브🔗](https://github.com/2blackcow/FlappyBird)
+Details
+- [GitHub🔗](https://github.com/2blackcow/FlappyBird)
