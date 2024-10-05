@@ -6,6 +6,6 @@ view: community/compact
 
 banner:
   caption: ''
-  image: 'certifi.jpg'
+  image: 'project.jpg'
 
 ---
