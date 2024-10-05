@@ -1,6 +1,6 @@
 ---
 
-title: 자격증 취득
+title: Obtain Certificate
 
 view: community/compact
 

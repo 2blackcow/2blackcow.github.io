@@ -1,7 +1,7 @@
 ---
-title: 정보처리기능사 취득
+title: Obtained Industrial Engineer Information Processing Certificate
 date: 2024-04-17
 ---
 
-### 자격증 pdf 파일
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/q1.pdf" >}}Download{{< /staticref >}} 자격증 파일..
+### Certificate PDF File
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/q1.pdf" >}}Download{{< /staticref >}} This is the certificate file.
