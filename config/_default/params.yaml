@@ -40,7 +40,7 @@ header:
     show_theme_chooser: true
     show_search: true
     logo:
-      filename: 'logo.png'
+      filename: "logo.png"
       text: "HyeonU"
       
 

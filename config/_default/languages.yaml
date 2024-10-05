@@ -8,64 +8,12 @@ ko:
   languageName: 한국어
   contentDir: content/ko
 
-  menu:
-    main:
-      - name: 홈
-        url: "/"
-        weight: 1
-      - name: 자기소개
-        url: "/about/"
-        weight: 2
-      - name: 프로젝트
-        url: "/projects/"
-        weight: 3
-      - name: 갤러리
-        url: "/gallery/"
-        weight: 4
-
-      - name: 학교생활
-        identifier: activity
-        weight: 5
-      - name: 커리큘럼
-        url: "/curriculum/"
-        parent: activity
-        weight: 1
-      - name: 동아리
-        url: "/dongari/"
-        parent: activity
-        weight: 2
-  
-      - name: 경력
-        identifier: careers
-        weight: 6
-      - name: 수상
-        url: "/award/"
-        parent: careers
-        weight: 1
-      - name: 자격증
-        url: "/qualifications/"
-        parent: careers
-        weight: 2
-
-    
-      - name: 연락처
-        url: "/contact/"
-        weight: 7
-
 
 en:
   languageCode: en-us
   languageName: English
   contentDir: content/en
 
-  menu:
-    main:
-      - name: Home
-        url: "/en/"
-        weight: 1
-      - name: About
-        url: "/about/"
-        weight: 2
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   
 # Uncomment the lines below to configure your website in a second language.
