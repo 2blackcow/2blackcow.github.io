@@ -1,6 +1,6 @@
 ---
-title: 2024년 2학기 웹서비스설계 
-subtitle: 포트폴리오 웹사이트
+title: 웹사이트 만들기
+subtitle: 포트폴리오
 summary: 2024년 9월 - 2024년 10월
 date: 2024-10-04
 type: docs
