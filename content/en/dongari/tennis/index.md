@@ -1,8 +1,8 @@
 ---
-title: 전북대 테니스 동아리 탑스핀
+title: Jeonbuk National University Tennis Club Topspin
 date: 2023-03-10
-summary: 2023-03-10 - 현재
+summary: 2023-03-10 - Present
 ---
 
 
-- 테니스 동아리에서 동아리원들과 운동 및 친목 활동을 합니다!
+- I exercise and socialize with club members at the tennis club!

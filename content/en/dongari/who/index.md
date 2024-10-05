@@ -1,7 +1,7 @@
 ---
-title: 컴퓨터공학부 학과동아리 WHO
+title: Computer Engineering Department Club WHO
 date: 2023-03-10
-summary: 2023-03-10 - 현재
+summary: 2023-03-10 - Present
 ---
 
-- 과동아리 WHO에서 스터디 및 친목 활동을 합니다!
+- I conduct study and social activities at the department club WHO!
