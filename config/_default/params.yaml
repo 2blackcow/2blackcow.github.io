@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: '이현우'
+    org_name: '전북대 이현우'
     description: '전북대학교 컴퓨터공학부 이현우'
     twitter: ''
   analytics:
@@ -27,6 +27,7 @@ marketing:
     microsoft_clarity: ''
   verification:
     google: 'hgmQDVzGhkHrVhQWHfVuNiWZ7HvdiWoOdMwbMsPxwnQ'
+    naver: 'ac3b68626ee93cabda6c23cead1aa0ebcc3c3bad'
     baidu: ''
 
 # Site header
