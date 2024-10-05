@@ -8,43 +8,54 @@ main:
   - name: 홈
     url: /
     weight: 10
+    language: ko
   - name: 자기소개
     url: about/
     weight: 20
+    language: ko
   - name: 프로젝트
     url: projects/
     weight: 30
+    language: ko
   - name: 갤러리
     url: gallery/
     weight: 40
+    language: ko
   - name: 학교생활
     identifier: activity
     weight: 50
+    language: ko
   - name: 커리큘럼
     url: curriculum/
     parent: activity
     weight: 1
+    language: ko
   - name: 동아리
     url: dongari/
     parent: activity
     weight: 2
+    language: ko
   
   - name: 경력
     identifier: careers
     weight: 60
+    language: ko
 
   - name: 수상
     url: award/
     parent: careers
     weight: 1
+    language: ko
   - name: 자격증
     url: qualifications/
     parent: careers
     weight: 2
+    language: ko
  
   - name: 연락처
     url: contact/
     weight: 70
+    language: ko
 
     #영어 메뉴
   - name: Home
@@ -81,15 +92,18 @@ main:
   - name: Career
     identifier: careers
     weight: 60
+    language: en
   - name: Award
     url: /en/award/
     parent: careers
     weight: 1
+    language: en
   - name: Certificate
     url: /en/qualifications/
     parent: careers
     weight: 2
-  
+    language: en
   - name: Contact
     url: /en/contact/
     weight: 70
+    language: en
