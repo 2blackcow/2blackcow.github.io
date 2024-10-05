@@ -1,14 +1,14 @@
 ---
-title: 2024년 2학기
+title: 2nd Semester 2024
 date: 2024-09-01
 ---
 
-2024년 2학기 수강과목 입니다.
-
+This is a course list for the second semester of 2024.
 <!--more-->
-- 소프트웨어공학 (전공선택)
-- 웹서비스설계 (전공선택)
-- 컴퓨터그래픽스 (전공선택)
-- 확률및통계 (전공선택)
-- 계통해부학 (일반선택)
-- 공기업채용과NCS (일반선택)
+
+Software Engineering (Major Elective)
+Web Service Design (Major Elective)
+Computer Graphics (Major Elective)
+Probability and Statistics (Major Elective)
+Systematic Anatomy (General Elective)
+Public Enterprise Recruitment and NCS (General Elective)

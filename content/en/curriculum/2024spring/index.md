@@ -1,13 +1,12 @@
 ---
-title: 2024년 1학기
+title: 1nd Semester 2024
 date: 2024-03-02
 ---
 
-2024년 1학기 수강과목 입니다.
-
+This is a course list for the first semester of 2020.
 <!--more-->
-- 데이터베이스 (전공필수)
-- 운영체제 (전공필수)
-- 인공지능 (전공필수)
-- 선형대수학 (전공선택)
-- 컴퓨터네트워크 (전공선택)
+Database (Required Major)
+Operating System (Required Major)
+Artificial Intelligence (Required Major)
+Linear Algebra (Major Elective)
+Computer Network (Major Elective)

@@ -1,14 +1,15 @@
 ---
-title: 2023년 1학기
+title: 1nd Semester 2023
 date: 2023-03-02
 ---
 
-2023년 1학기 수강과목 입니다.
+This is a course list for the first semester of 2023.
 
 <!--more-->
-- 리눅스프로그래밍 (전공선택)
-- 객체지향프로그래밍 (전공선택)
-- 논리설계 (전공선택)
-- 자료구조 (전공필수)
-- 철학의이해 (교양)
-- 성의과학적이해 (일반선택)
+
+Linux Programming (Major Elective)
+Object-Oriented Programming (Major Elective)
+Logical Design (Major Elective)
+Data Structure (Required Major)
+Understanding Philosophy (Liberal Arts)
+Scientific Understanding of Sexuality (General Elective)

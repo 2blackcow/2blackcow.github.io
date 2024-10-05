@@ -1,6 +1,6 @@
 ---
 
-title: 커리큘럼
+title: Curriculum
 
 view: community/citation
 

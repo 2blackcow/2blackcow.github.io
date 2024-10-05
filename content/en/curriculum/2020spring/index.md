@@ -1,14 +1,14 @@
 ---
-title: 2020년 1학기
+title: 1nd Semester 2020
 date: 2020-03-02
 ---
 
-2020년 1학기 수강과목 입니다.
+This is a course list for the first semester of 2020.
 
 <!--more-->
-- c언어 기초 (교양)
-- 수학 1 (교양)
-- 일반물리학 1 (교양)
-- 통계적사고와사회 (교양)
-- 고전,명저읽기 (교양)
-- 사회학의초대 (교양)
+C Language Basics (Liberal Arts)
+Mathematics 1 (Liberal Arts)
+General Physics 1 (General Education)
+Statistical Thinking and Society (Liberal Arts)
+Reading Classics and Famous Books (General Education)
+Invitation to Sociology (Liberal Arts)

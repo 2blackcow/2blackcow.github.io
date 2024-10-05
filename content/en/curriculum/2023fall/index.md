@@ -1,14 +1,14 @@
 ---
-title: 2023년 2학기
+title: 2nd Semester 2023
 date: 2023-09-01
 ---
 
-2023년 2학기 수강과목 입니다.
+This is a course list for the second semester of 2023.
 
 <!--more-->
-- 컴퓨터구조 (전공필수)
-- 알고리즘 (전공필수)
-- 이산수학 (전공선택)
-- 모바일프로그래밍 (전공선택)
-- 데이터통신 (전공선택)
-- 미디어와스토리텔링 (일반선택)
+Computer Architecture (Required Major)
+Algorithm (Required Major)
+Discrete Mathematics (Major Elective)
+Mobile Programming (Major Elective)
+Data Communication (Major Elective)
+Media and Storytelling (General Elective)
