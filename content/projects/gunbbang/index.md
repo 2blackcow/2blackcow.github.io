@@ -14,6 +14,6 @@ tags:
 - 2인용 슈팅 게임 건빵! 개발
 
 세부사항
-- [깃허브](https://github.com/2blackcow/Gunbbang)
+- [깃허브🔗](https://github.com/2blackcow/Gunbbang)
 
 

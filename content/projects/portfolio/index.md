@@ -26,4 +26,4 @@ Github pages로 개인 페이지 만들기
 - Hugo 정적 사이트 생성기 활용
 - GitHub Pages를 통한 웹사이트 호스팅
 
-[깃허브](https://github.com/2blackcow/2blackcow.github.io.git)
+[깃허브🔗](https://github.com/2blackcow/2blackcow.github.io.git)
