@@ -4,6 +4,7 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
+    #한국어 메뉴
   - name: 홈
     url: /
     weight: 10
@@ -40,10 +41,55 @@ main:
     url: qualifications/
     parent: careers
     weight: 2
-
-    
+ 
   - name: 연락처
     url: contact/
     weight: 70
 
-
+    #영어 메뉴
+  - name: Home
+    url: /en/
+    weight: 10
+    language: en
+  - name: About
+    url: /en/about/
+    weight: 20
+    language: en
+  - name: Projects
+    url: /en/projects/
+    weight: 30
+    language: en
+  - name: Gallery
+    url: /en/gallery/
+    weight: 40
+    language: en
+  - name: School Life
+    identifier: activity
+    weight: 50
+    language: en
+  - name: Curriculum
+    url: /en/curriculum/
+    parent: activity
+    weight: 1
+    language: en
+  - name: Club
+    url: /en/dongari/
+    parent: activity
+    weight: 2
+    language: en
+  
+  - name: Career
+    identifier: careers
+    weight: 60
+  - name: Award
+    url: /en/award/
+    parent: careers
+    weight: 1
+  - name: Certificate
+    url: /en/qualifications/
+    parent: careers
+    weight: 2
+  
+  - name: Contact
+    url: /en/contact/
+    weight: 70
