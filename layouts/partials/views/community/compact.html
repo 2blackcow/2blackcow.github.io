@@ -1,9 +1,9 @@
 <div class="media stream-item view-compact" style="display: flex; align-items: flex-start;">
-  
+ 
   <div class="media-image" style="margin-right: 20px;">
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
-      {{ $image := .Resize "150x" }}
+      {{ $image := .Resize "150x150" }}
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
