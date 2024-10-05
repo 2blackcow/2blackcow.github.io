@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: 경험
+title: experience
 subtitle:
 
 # Date format for experience
@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 전북대학교 제 2대 컴퓨터인공지능학부 학생회
-    company: 전북대학교
+  - title: JeonBuk National University's 2nd Department of Computer and Artificial Intelligence Student Council
+    company: JeonBuk National University
     company_url: ''
     company_logo: users
     #location: 전라북도 전주시

@@ -31,7 +31,7 @@ main:
   - name: 경력
     identifier: careers
     weight: 60
-    # 서브탭 추가 메뉴
+    
   - name: 수상
     url: award/
     parent: careers

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 학력
+title: education
 subtitle:
 
 # Date format for experience
@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 전북대학교 컴퓨터공학부 학사
-    company: 전북대학교
+  - title: Undergraduate Student in Computer Engineering at JBNU
+    company: JeonBuk National University
     company_url: ''
     company_logo: graduation
     #location: 전라북도 전주시
     date_start: '2020-03-02'
     date_end: ''
-    description: 재학생
+    description: Undergraduate Student
 
 design:
   columns: '1'
