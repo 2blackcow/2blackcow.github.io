@@ -30,4 +30,4 @@ tags:
 
 
 ### 결과보고서
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/linux.pdf" >}}{{< /staticref >}} 결과 보고서.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/linux.pdf" >}} 다운로드{{< /staticref >}} 결과 보고서.
