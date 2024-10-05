@@ -2,27 +2,27 @@
 widget: features
 
 
-title: 취미
+title: Hobby
 weight: 40
 
 feature:
     - icon: code
       icon_pack: fas
-      name: 코딩
+      name: Coding
     - icon: plane
       icon_pack: fas
-      name: 여행
+      name: Travel
     - icon: dumbbell
       icon_pack: fas
-      name: 운동
+      name: Health
     - icon: film
       icon_pack: fas
-      name: 영화
+      name: Movie
     - icon: futbol
       icon_pack: fas
-      name: 축구
+      name: Soccer
     - icon: music
       icon_pack: fas
-      name: 음악듣기
+      name: Music
     
 ---

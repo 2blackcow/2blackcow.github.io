@@ -16,8 +16,8 @@ design:
 
 content:
   slides:
-    - title: <span style="font-size:90%">안녕하세요.</span>
-      content: <span style="font-size:90%">이현우의 개인 페이지에 오신 것을 환영합니다!<span style="font-size:90%">
+    - title: <span style="font-size:90%">Hello.</span>
+      content: <span style="font-size:90%">Welcome to Hyunwoo Lee's personal page!<span style="font-size:90%">
       align: center
       background:
         position: center
@@ -25,8 +25,8 @@ content:
         brightness: 0.4
         media: hello.jpg
         #fit: cover
-    - title:  <span style="font-size:90%">스터디</span>
-      content:  <span style="font-size:90%">코드 및 언어를 지속적으로 공부합니다</span>
+    - title:  <span style="font-size:90%">Study</span>
+      content:  <span style="font-size:90%">I continue to study code and language.</span>
       align: center
       background:
         position: center
@@ -34,8 +34,8 @@ content:
         brightness: 0.4
         media: study.jpg
         #fit: cover
-    - title: <span style="font-size:90%">⬇️연락처⬇️</span>
-      content: <span style="font-size:90%">언제든지 연락해주세요!</span>
+    - title: <span style="font-size:90%">⬇️Contact⬇️</span>
+      content: <span style="font-size:90%">Please contact me anytime!</span>
       align: left
       background:
         position: center
@@ -44,7 +44,7 @@ content:
         media: phone.jpg
         #fit: cover
       link:
-        text: <span style="font-size:70%">연락처</span>
+        text: <span style="font-size:70%">contact</span>
         icon: phone-alt
         icon_pack: fas
         url: contact
