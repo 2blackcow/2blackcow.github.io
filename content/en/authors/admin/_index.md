@@ -74,7 +74,7 @@ email: "lhw4408@jbnu.ac.kr"
 highlight_name: true
 ---
 
-Hello, I am Hyeonwoo Lee, a student in the Department of Computer Engineering at Chonbuk National University. As I progress through the curriculum in my major, I am learning various programming languages and actively researching development cases to expand my knowledge.
+Hello, I am Hyeonwoo Lee, a student in the Department of Computer Engineering at JeonBuk National University. As I progress through the curriculum in my major, I am learning various programming languages and actively researching development cases to expand my knowledge.
 
 My goal is to provide optimized, user-centric technology solutions. I am constantly exploring new tools and technologies, with a particular focus on using my skills in front-end development. I aspire to become a developer who designs innovative solutions.
 
