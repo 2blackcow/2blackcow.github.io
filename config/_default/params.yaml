@@ -23,7 +23,7 @@ marketing:
     open_graph:
       title: '전북대 이현우'
       description: '전북대학교 컴퓨터공학부 이현우의 개인 웹사이트입니다.'
-      image: 'logo.png'
+      image: 'https://images.unsplash.com/photo-1579905022041-948b2d932ac8?q=80&w=2864&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
