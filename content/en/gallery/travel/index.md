@@ -1,11 +1,11 @@
 ---
-title: ✈️여행사진✈️
+title: ✈️Travel Photo✈️
 date: 2024-10-04
 ---
 
-# 여행
+# Travel
 
-제가 찍은 여행사진입니다.
+This is a photo of an travel I took.
 
 ![여행](travel1.jpg)
 ![여행](travel2.jpg)

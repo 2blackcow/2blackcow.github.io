@@ -1,5 +1,5 @@
 ---
-title: 갤러리
+title: Gallery
 view: community/card
 
 banner:

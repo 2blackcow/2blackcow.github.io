@@ -1,11 +1,11 @@
 ---
-title: 🐶동물사진🐶
+title: 🐶Animal Photo🐶
 date: 2024-10-04
 ---
 
-# 동물
+# Animal
 
-제가 찍은 동물사진입니다.
+This is a photo of an animal I took.
 
 ![강아지](dog1.jpg)
 ![강아지](dog2.jpg)
