@@ -1,0 +1,56 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+  #     desired widget in your `content/home/` folder.
+  #   The weight parameter defines the order that the links will appear in.
+
+main:
+    #영어 메뉴
+  - name: Home
+    url: /en/
+    weight: 10
+    
+  - name: About
+    url: /en/about/
+    weight: 20
+    
+  - name: Projects
+    url: /en/projects/
+    weight: 30
+    
+  - name: Gallery
+    url: /en/gallery/
+    weight: 40
+    
+  - name: School Life
+    identifier: activity
+    weight: 50
+    
+  - name: Curriculum
+    url: /en/curriculum/
+    parent: activity
+    weight: 1
+    
+  - name: Club
+    url: /en/dongari/
+    parent: activity
+    weight: 2
+    
+  
+  - name: Career
+    identifier: careers
+    weight: 60
+    
+  - name: Award
+    url: /en/award/
+    parent: careers
+    weight: 1
+    
+  - name: Certificate
+    url: /en/qualifications/
+    parent: careers
+    weight: 2
+    
+  - name: Contact
+    url: /en/contact/
+    weight: 70
+    
