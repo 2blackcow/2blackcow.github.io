@@ -24,14 +24,14 @@ main:
     parent: activity
     weight: 1
   - name: 동아리
-    url: dongari/
+    url: club/
     parent: activity
     weight: 2
   
   - name: 경력
     identifier: careers
     weight: 60
-    
+
   - name: 수상
     url: award/
     parent: careers
