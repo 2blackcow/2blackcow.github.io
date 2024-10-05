@@ -1,5 +1,5 @@
 ---
-title: 수상경력
+title: Award
 
 view: community/card
 

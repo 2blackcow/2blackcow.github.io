@@ -1,7 +1,7 @@
 ---
-title: 비어 있음
+title: Empty
 #date: 2023-10-03
 ---
 
 
-- 아직 수상 경력이 없지만 열심히 노력해서 얻어내겠습니다 ..!
+- I haven't won any awards yet, but I'll work hard to achieve them..!

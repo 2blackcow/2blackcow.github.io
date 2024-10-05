@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LEE HYEON WOO
+title: Lee Hyeon Woo
 
 # Is this the primary user of the site?
 superuser: true
